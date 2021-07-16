@@ -1,3 +1,11 @@
+USAGE
+======
+*termux
+*python module os
+*curl bash
+*web dav
+*CSRF (Cross Site Request Forgery) in curl
+
 # SRSELF
 <p>python2 prongram</p>
 sever repeat mesenge self 😁
