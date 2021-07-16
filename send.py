@@ -2,7 +2,7 @@ import os
 import profil
 import main
 f = open("pesan.txt",'w')
-send = raw_input('isi pesan: ')
+send = input(' message: ')
 f.write(profil.name)
 f.write(send)
 f.close()
