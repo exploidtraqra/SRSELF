@@ -8,7 +8,7 @@ USAGE
 
 # SRSELF
 <p>python2 prongram</p>
-sever repeat mesenge self 😁
+sever repeat message self 😁
 
 ### chating in server privacy
 
